@@ -4,4 +4,7 @@
 
 // Find the sum of  'num_one' and 'num_two' then assign to 'variable_total'
 
-void main() {}
+void main() {
+    int num_one = 5, num_two = 5;
+    print(num_one + num_two);
+}
