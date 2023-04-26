@@ -10,4 +10,7 @@
 
 // Find the expression value assign to 'answer'. a+b - c*d .
 
-void main() {}
+void main() {
+    int a = 8, b = 3, c = 2, d = 4;
+    print(a+b - c*d); 
+}
