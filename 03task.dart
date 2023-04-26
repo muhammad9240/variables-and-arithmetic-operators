@@ -6,4 +6,8 @@
 
 // find the difference of a and b then assign to "answer"
 
-void main() {}
+void main() {
+    int a = 6, b = 2;
+    
+    print(a - b);
+}
